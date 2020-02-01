@@ -8,8 +8,8 @@ This application was made with [snack.expo.io](https://snack.expo.io/).
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/raihanlh/currency-converter/blob/master/screenshots/1.jpg "Screenshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/raihanlh/currency-converter/master/screenshots/1.jpg "Screenshot 1")
 
-![Screenshot 1](https://github.com/raihanlh/currency-converter/blob/master/screenshots/2.jpg "Screenshot 2")
+![Screenshot 1](https://raw.githubusercontent.com/raihanlh/currency-converter/master/screenshots/2.jpg "Screenshot 2")
 
-![Screenshot 1](https://github.com/raihanlh/currency-converter/blob/master/screenshots/3.jpg "Screenshot 2")
+![Screenshot 1](https://raw.githubusercontent.com/raihanlh/currency-converter/master/screenshots/3.jpg "Screenshot 2")
